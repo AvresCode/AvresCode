@@ -9,4 +9,4 @@ AvresCode/AvresCode is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-<img src="https://img.shields.io/React-ColourCode?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle" />
+<img alt="React" src="https://img.shields.io/badges/React-61DAFB?logo=react&logoColor=white&style=flat" />
