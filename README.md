@@ -10,7 +10,7 @@ AvresCode/AvresCode is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-[<img style="padding-right:10px;" alt="Html" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=flat" height="25" />](https://html.com/)
+[<img style="padding-right:30px;" alt="Html" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=flat" height="25" />](https://html.com/)
 [<img alt="Css" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=flat" height="25"/>](https://web.dev/learn/css/)
 [<img alt="Javascript" src="https://img.shields.io/badge/Javascript-F7DF1E?logo=javascript&logoColor=white&style=flat" height="25" />](https://www.javascript.com/)
 [<img alt="Styledcomponents" src="https://img.shields.io/badge/StyledComponents-DB7093?logo=styledcomponents&logoColor=white&style=flat" height="25"/>](https://styled-components.com/)
