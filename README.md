@@ -3,20 +3,7 @@
 - 💞️ Currently I’m looking for a junior position where I can develop my tech skills and grow my career.
 - 📫 You can reach me at (+31 - 685258599)
 
-import customFonts from 'custom-fonts-in-emails';
-import path from 'path';
 
-const options = {
-  text: 'Make something people want',
-  fontNameOrPath: 'GoudyBookletter1911',
-  fontColor: 'white',
-  backgroundColor: '#ff6600',
-  fontSize: 40
-};
-
-customFonts.png2x(options)
-  .then(console.log)
-  .catch(console.error);
 
 <!---
 AvresCode/AvresCode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -32,3 +19,7 @@ You can click the Preview link to take a look at your changes.
 [<img alt="" src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat" height="25"/>](https://nodejs.org/en/)
 [<img alt="Express" src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=flat" height="25"/>](https://expressjs.com/)
 [<img alt="Sequelize" src="https://img.shields.io/badge/Sequelize-52B0E7?logo=sequelize&logoColor=white&style=flat" height="25"/>](https://sequelize.org/)
+
+### 📊 Stats
+
+![Serva's GitHub stats](https://github-readme-stats.vercel.app/api?username=AvresCode&show_icons=true&theme=gruvbox)
