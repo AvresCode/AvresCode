@@ -4,7 +4,6 @@ Currently I’m looking for a junior position where I can develop my tech skills
 - 📫 You can reach me at (+31 - 685258599)
 
 
-
 <!---
 AvresCode/AvresCode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
