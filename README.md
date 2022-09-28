@@ -9,6 +9,7 @@ AvresCode/AvresCode is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
+### Tech Stack
 [<img style="margin-right:30px" alt="Html" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=flat" height="25" />](https://html.com/)
 [<img alt="Css" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=flat" height="25"/>](https://web.dev/learn/css/)
 [<img alt="Javascript" src="https://img.shields.io/badge/Javascript-F7DF1E?logo=javascript&logoColor=white&style=flat" height="25" />](https://www.javascript.com/)
@@ -18,6 +19,8 @@ You can click the Preview link to take a look at your changes.
 [<img alt="" src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat" height="25"/>](https://nodejs.org/en/)
 [<img alt="Express" src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=flat" height="25"/>](https://expressjs.com/)
 [<img alt="Sequelize" src="https://img.shields.io/badge/Sequelize-52B0E7?logo=sequelize&logoColor=white&style=flat" height="25"/>](https://sequelize.org/)
+
+---
 
 ### 📊 Stats
 
