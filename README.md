@@ -16,3 +16,4 @@ You can click the Preview link to take a look at your changes.
 [<img alt="Html" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=flat" />](https://html.com/)
 [<img alt="Styledcomponents" src="https://img.shields.io/badge/StyledComponents-DB7093?logo=styledcomponents&logoColor=white&style=flat" />](https://styled-components.com/)
 [<img alt="Express" src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=flat" />](https://expressjs.com/)
+[<img alt="Sequelize" src="https://img.shields.io/badge/Sequelize-52B0E7?logo=sequelize&logoColor=white&style=flat" />](https://sequelize.org/)
