@@ -3,7 +3,7 @@ I’m a junior web developer who recently completed 10 weeks full stack web deve
 Currently I’m looking for a junior position where I can develop my tech skills and grow my career.
 - 📫 You can reach me at (+31 - 685258599)
 
-
+---
 <!---
 AvresCode/AvresCode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
