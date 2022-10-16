@@ -28,6 +28,6 @@ You can click the Preview link to take a look at your changes.
 
 ![Serva's github stats](https://github-readme-stats.vercel.app/api?username=AvresCode&count_private=true&show_icons=true&theme=radical)
 
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AvresCode&layout=compact&show_icons=true&theme=radical)]
+
 
