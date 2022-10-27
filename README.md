@@ -1,8 +1,8 @@
 Hi, I’m Serva 👋😄
 
-I’m a junior web developer who recently completed 10 weeks full stack web development bootcamp. 
+I’m a junior web developer who recently completed 11 weeks full stack web development bootcamp. 
 Currently I’m looking for a junior position where I can develop new skills and grow my career.
-- 📫 You can reach me at (+31 - 685258599) or at servas230@gmail.com. 
+- 📫 You can reach me at (+31 - 685808449) or at servas230@gmail.com. 
 
 ---
 <!---
