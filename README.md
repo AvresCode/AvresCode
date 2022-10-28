@@ -23,9 +23,9 @@ You can click the Preview link to take a look at your changes.
 <br/>
 
 ### Tech Stack I'm currently learning:
-[<img style="margin-right:30px" alt="Typscript" src="https://img.shields.io/badge/Typescript-#2f89e3?logo=typescript&logoColor=white&style=flat" height="25" />]
+[<img style="margin-right:30px" alt="Typscript" src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white&style=flat" height="25" />]
 [<img style="margin-right:30px" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-#41ac26?logo=mongodb&logoColor=white&style=flat" height="25" />]
-
+https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white
 ---
 
 ### 📊 Stats
