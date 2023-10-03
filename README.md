@@ -21,6 +21,7 @@ You can click the Preview link to take a look at your changes.
 [<img alt="Sequelize" src="https://img.shields.io/badge/Sequelize-52B0E7?logo=sequelize&logoColor=white&style=flat" height="25"/>](https://sequelize.org/)
 <br/>
 [<img alt="Styledcomponents" src="https://img.shields.io/badge/StyledComponents-DB7093?logo=styledcomponents&logoColor=white&style=flat" height="25"/>](https://styled-components.com/)
+[<img alt="Tailwind" src="https://img.shields.io/badge/Tailwind-F7FDFC?logo=tailwindcss&logoColor=blue&style=flat" height="25"/>](https://tailwindcss.com/)
 
 ### Tech Stacks I'm familiar with:
 [<img style="margin-right:30px" alt="Typscript" src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" height="25" />](https://www.typescriptlang.org/)
