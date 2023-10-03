@@ -2,7 +2,7 @@ Hi, I’m Serva 👋😄
 
 I’m a junior web developer who recently completed 11 weeks full stack web development bootcamp. 
 Currently I’m looking for a junior position where I can develop new skills and grow my career.
-- 📫 You can reach me at (+31 - 685808449) or at servas230@gmail.com. 
+- 📫 You can reach out to me either through <a href="http://www.linkedin.com/in/servasa" target="_blank">Linkedin</a> or via email at servas230@gmail.com. 
 
 ---
 <!---
@@ -27,6 +27,7 @@ You can click the Preview link to take a look at your changes.
 [<img style="margin-right:30px" alt="NEXT.js" src="https://img.shields.io/badge/NEXT.js-000000?style=flat&logo=next.js&logoColor=white" height="25" />](https://www.nextjs.org/)
 [<img style="margin-right:30px" alt="GraphQL" src="https://img.shields.io/badge/GraphQL-DB7093?style=flat&logo=graphql&logoColor=white" height="25" />](https://www.graphql.org/)
 [<img style="margin-right:30px" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" height="25" />](https://www.mongodb.com/)
+[<img style="margin-right:30px" alt="Firebase" src="https://img.shields.io/badge/Firebase-00BFFF?style=flat&logo=firebase&logoColor=orange" height="25" target="_blank"/>](https://firebase.google.com/)
 
 ---
 
