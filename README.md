@@ -1,7 +1,6 @@
 Hi, I’m Serva 👋😄
 
-I’m a junior web developer who recently completed 11 weeks full stack web development bootcamp. 
-Currently I’m looking for a junior position where I can develop new skills and grow my career.
+I'm a web developer bursting with enthusiasm after successfully completing an intensive 11-week full-stack web development bootcamp. I'm on a quest to find a position that ignites my passion, fuels my growth, and propels me into an exciting career journey where every day is a new opportunity to learn and thrive.
 - 📫 You can reach out to me either through <a href="http://www.linkedin.com/in/servasa" target="_blank">Linkedin</a> or via email at servas230@gmail.com. 
 
 ---
